@@ -1,0 +1,25 @@
+{
+  "name": "crudoperation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnugyaBansal/crudoperation.git"
+  },
+  "author": "anugya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnugyaBansal/crudoperation/issues"
+  },
+  "homepage": "https://github.com/AnugyaBansal/crudoperation#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^6.8.3",
+    "node": "^19.4.0",
+    "nodemon": "^2.0.20"
+  }
+}
